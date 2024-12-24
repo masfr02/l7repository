@@ -21,7 +21,7 @@
       "All": [
         {
           "HardcodedResponse": {
-            "body": "{\n    \"message\": \"Thanks for getting started at ${gateway.time}!\"\n}",
+            "body": "{\n    \"message\": \"Grazie for getting started at ${gateway.time}!\"\n}",
             "contentType": "application/json; charset=UTF-8"
           }
         }
